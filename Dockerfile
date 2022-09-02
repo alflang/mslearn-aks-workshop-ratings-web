@@ -1,4 +1,4 @@
-FROM node:13.5-alpine
+FROM registry.access.redhat.com/ubi8/nodejs-14
 
 WORKDIR /usr/src/app
 
